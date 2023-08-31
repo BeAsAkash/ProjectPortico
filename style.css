@@ -150,11 +150,13 @@ html,body {
 }
 
 .elem{
+    
     position: relative;
     display: flex;
     align-items: center;
     justify-content: space-between;
     width: 100%;
+    
    
     padding: 3.5vw 3vw;
     padding-right: 0;
