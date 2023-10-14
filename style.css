@@ -168,11 +168,22 @@ html,body {
     text-transform: uppercase;
     font-size: 7.5vw;
     opacity: .7;
+    text-decoration: none;
 }
 
 .elemlast{
     border-bottom: 1px solid #888;
 
+
+}
+
+.elem a{
+    text-transform: uppercase;
+    font-size: 7.5vw;
+    opacity: .7;
+    text-decoration: none;
+    color: #fff;
+    
 
 }
 
