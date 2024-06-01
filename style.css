@@ -178,7 +178,7 @@ html,body {
 }
 
 .elem a{
-    text-transform: uppercase;
+    //text-transform: uppercase;
     font-size: 7.5vw;
     opacity: .7;
     text-decoration: none;
